@@ -1,0 +1,8 @@
+##NOTE: ALL FILES MUST BE RUN WITH ADMIN PRIVILEGES##
+1. Run the file 'WiFi_setup.bat' - You can make changes in the ssid and key fields. ssid = Name of your hotspot; key = password
+2. Run the file 'WiFi_start.bat'
+3. Go to your laptop's Network and Sharing Center. You'll observe that there's an extra network apart from your existing LAN. 
+Go to your LAN properties and under the sharing tab, check 'Allow other networks to connect through this network', 
+and in the dropdown menu, select the new network created.
+4. Your WiFi hotspot is ready to be used.
+5. To stop the network, run the file 'WiFi_stop.bat'
